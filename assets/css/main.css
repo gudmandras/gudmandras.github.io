@@ -1610,6 +1610,10 @@ input, select, textarea {
 				#main article ul li{
 					padding: 5px;
 				}
+			
+			#main article table tr td{
+				vertical-align: middle;
+			}
 
 		@media screen and (max-width: 736px) {
 
